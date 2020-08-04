@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43e70243-2bdf-4374-9188-df376b9e68c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../maven_repository" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fcl2j9CDp3faLlGlPXDtmfveQj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.AtomicLearning2">
+    <configuration name="AtomicLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtomicLearning" />
+      <module name="learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtomicLearning2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtomicLearning2" />
+      <module name="learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AtomicLearning2" />
+        <item itemvalue="Application.AtomicLearning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43e70243-2bdf-4374-9188-df376b9e68c0" name="Default Changelist" comment="" />
+      <created>1596525056632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596525056632</updated>
+      <workItem from="1596525061334" duration="1854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="823" key="#Project_Structure" timestamp="1596525066033">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="208" y="23" width="1024" height="823" key="#Project_Structure/1440.23.1194.811/0.23.1440.823@0.23.1440.823" timestamp="1596525066033" />
+    <state width="1398" height="482" key="GridCell.Tab.0.bottom" timestamp="1596529125682">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="482" key="GridCell.Tab.0.bottom/1440.23.1194.811/0.23.1440.823@0.23.1440.823" timestamp="1596529125682" />
+    <state width="1398" height="482" key="GridCell.Tab.0.center" timestamp="1596529125681">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="482" key="GridCell.Tab.0.center/1440.23.1194.811/0.23.1440.823@0.23.1440.823" timestamp="1596529125681" />
+    <state width="1398" height="482" key="GridCell.Tab.0.left" timestamp="1596529125680">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="482" key="GridCell.Tab.0.left/1440.23.1194.811/0.23.1440.823@0.23.1440.823" timestamp="1596529125680" />
+    <state width="1398" height="482" key="GridCell.Tab.0.right" timestamp="1596529125681">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="482" key="GridCell.Tab.0.right/1440.23.1194.811/0.23.1440.823@0.23.1440.823" timestamp="1596529125681" />
+    <state x="208" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1596529413159">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="208" y="23" width="1024" height="823" key="SettingsEditor/1440.23.1194.811/0.23.1440.823@0.23.1440.823" timestamp="1596529413159" />
+  </component>
+</project>
