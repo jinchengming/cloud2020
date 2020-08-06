@@ -18,7 +18,7 @@ import javax.annotation.Resource;
  */
 @RestController
 @Slf4j
-@DefaultProperties(defaultFallback = "payment_Global_FallbackMethod")
+@DefaultProperties(defaultFallback = "payment_Global_FallbackMethod") // controller层来控制指定默认的降级
 public class OrderHystrixController {
     @Resource
     private PaymentHystrixService hystrixService;
