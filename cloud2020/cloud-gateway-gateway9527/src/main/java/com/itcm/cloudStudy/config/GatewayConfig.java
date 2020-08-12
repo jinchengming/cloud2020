@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * 描述:
  * 网关配置类
  *
- * @outhor cm_fighting
+ * @author cm_fighting
  * @create 2020-08-11 3:11 下午
  */
 @Configuration

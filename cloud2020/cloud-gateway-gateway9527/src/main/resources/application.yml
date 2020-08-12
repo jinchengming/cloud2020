@@ -21,6 +21,10 @@ spring:
           uri: lb://CLOUD-PAYMENT-SERVICE
           predicates:
             - Path=/payment/lb/**
+            - After=2020-08-12T10:25:00.668+08:00[Asia/Shanghai] # 表示必须满足在这个时间之后 这个格式的时间可用ZonedDateTime来生成
+            # - Between=2020-08-10T10:25:00.668+08:00[Asia/Shanghai],2020-08-20T10:25:00.668+08:00[Asia/Shanghai] # 时间段内通过
+            # - Cookie=username,chengming #请求必须带这个cookie:  "username=chengming"
+            # - Header=X-Request-Id,\d+
 
 eureka:
   instance:
